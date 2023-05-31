@@ -9,6 +9,4 @@ Olá! Sou Lucas Campos, um entusiasta de programação em transição de carreir
 
 📫 Fique à vontade para entrar em contato comigo para discussões, colaborações ou oportunidades profissionais. Estou ansioso para fazer parte da comunidade de desenvolvedores e contribuir para o crescimento e a inovação.
 
-🌐 Para saber mais sobre mim, confira meu site pessoal [insira seu site pessoal ou portfólio] e sinta-se à vontade para explorar meus projetos no GitHub.
-
 Let's code and make a difference! 🚀
